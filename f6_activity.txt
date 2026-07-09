@@ -1,3 +1,7 @@
 Version control is important because it allows us to keep track of the changes we made in the code. Without it we will lose efficiency and time in trying to find what we
 went wrong in the code and what changes we made to it. Additionally with version control we are able to revert changes if the outlier has been found. So in that way we
 are able to remove the new/changed code from the previous version. Without the trouble of remembering or finding that old collection of codes you've maade.
+
+Git has a marginally advantage compared to manual file management because it doesn't need multiple file copies. It already has a history of every change made in the
+file or code. It also allows developers to work on separate branches and merge their work later, this makes project management much more efficient and reduces
+confusion.
